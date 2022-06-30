@@ -26,6 +26,7 @@ Syntax highlighted code block
 
 [URL](https://bhagatprince011.github.io/Profile/) and ![Image](src)
 ```
+[URL](https://bhagatprince011.github.io/Profile/)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
